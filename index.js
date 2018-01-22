@@ -5,5 +5,5 @@ function whisper (string){
   return string.toUpperCase()
 }
 function describe (string){
-  return string.toUpperCase()
+  return string.toLowerCase()
 }
