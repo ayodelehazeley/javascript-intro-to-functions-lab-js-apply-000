@@ -2,8 +2,8 @@ function shout (string) {
   return string.toUpperCase()
 }
 function whisper (string){
-  return string.toUpperCase()
+  return string.toLowerCase()
 }
 function describe (string){
-  return string.toLowerCase()
+  return string.toUpperCase()
 }
